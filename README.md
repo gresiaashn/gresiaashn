@@ -11,9 +11,8 @@
 
 ## 🚀 About Me
 - 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*  
-- 💡 Passionate about *Technology, Web Development, and AI*  
-- 🛠 Exploring *Machine Learning, Backend Development, and Cloud Computing*  
-- 🎯 2024 Goals: *Build cool projects & Contribute to Open Source*  
+- 💡 Passionate about *Technology, Web Development, and AI*
+- 🌸 Pronouns: **She/Her**
 
 
 ## 🌍 Let's Connect!
